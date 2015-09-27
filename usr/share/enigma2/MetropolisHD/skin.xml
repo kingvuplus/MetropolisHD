@@ -1,0 +1,81 @@
+<skin>
+<!-- DONT REMOVE THIS DISCLAIMER -->
+<!-- MetropolisHD Skin for Enigma2 - By Franc -->
+<!-- Version 1.0 -->
+<!-- This skin and all its graphics are free, do whatever you want with this skin but only for personal use, and don't tell it's yours, or your idea! -->
+<!-- You can modify and redistribute it as long as you keep this License for the skin. -->
+<!-- If you want to contact me i usually hang arround onwww.satforum.me or on e-mail sateliteacc([at])gmail.com --> 
+  <output id="0">
+    <resolution xres="1280" yres="720" bpp="32" />
+  </output>
+  <colors>
+    <color name="background" value="#25040f28" />
+    <color name="background2" value="#00333333" />
+    <color name="bgblue" value="#25003266" />
+    <color name="black" value="#00000000" />
+    <color name="blue" value="#000070eb" />
+    <color name="dark" value="#15102748" />
+    <color name="darkgrey" value="#00888888" />
+    <color name="foreground" value="#00dddddd" />
+    <color name="green" value="#00389416" />
+    <color name="grey" value="#008f8f8f" />
+    <color name="hellgreen" value="#2256c856" />
+    <color name="metropolisTT" value="#ccffffff" />
+    <color name="metropolisTTA" value="#dfffffff" />
+    <color name="orange" value="#00ff6600" />
+    <color name="podloga" value="#1b1b1b1b" />
+    <color name="red" value="#00ff2525" />
+    <color name="transparent" value="#ffffffff" />
+    <color name="transparent2" value="#ff000000" />
+    <color name="transpBlack" value="#41000000" />
+    <color name="transpGrey" value="#41444444" />
+    <color name="transpWhite" value="#77ffffff" />
+    <color name="transpyellow" value="#33bab329" />
+    <color name="un11b7b7b7" value="#11b7b7b7" />
+    <color name="un19000000" value="#19000000" />
+    <color name="un1f771f" value="#001f771f" />
+    <color name="un203658a4" value="#203658a4" />
+    <color name="un2144557e" value="#2144557e" />
+    <color name="un21e2e2e2" value="#21e2e2e2" />
+    <color name="un25062748" value="#25062748" />
+    <color name="un252b4247" value="#252b4247" />
+    <color name="un254f7497" value="#254f7497" />
+    <color name="un333333" value="#00333333" />
+    <color name="un40f" value="#0000040f" />
+    <color name="un4d5375" value="#004d5375" />
+    <color name="un666666" value="#00666666" />
+    <color name="un800000" value="#00800000" />
+    <color name="un808888" value="#00808888" />
+    <color name="un9f1313" value="#009f1313" />
+    <color name="unaaaaaa" value="#00aaaaaa" />
+    <color name="unb67a2" value="#000b67a2" />
+    <color name="uncccccc" value="#00cccccc" />
+    <color name="undedede" value="#00dedede" />
+    <color name="unf23d21" value="#00f23d21" />
+    <color name="unff0000" value="#00ff0000" />
+    <color name="white" value="#00ffffff" />
+    <color name="yellow" value="#00bab329" />
+  </colors>
+  <fonts>
+    <font filename="/usr/share/fonts/lcd.ttf" name="LCD" scale="100" />
+    <font filename="/usr/share/fonts/Army_Regular_L.ttf" name="Army" scale="100" />
+    <font filename="/usr/share/fonts/MET_FontinSansSmallCaps.ttf" name="Replacement" scale="100" replacement="1" />
+    <font filename="/usr/share/fonts/tuxtxt.ttf" name="Console" scale="100" />
+    <font filename="/usr/share/fonts/DroidSans.ttf" name="Regular" scale="100" />
+    <font filename="/usr/share/fonts/OpenSans-Regular.ttf" name="OpenSans" scale="100" />
+  </fonts>
+  <windowstyle type="skinned" id="0">
+    <title offset="40,14" font="Replacement;26" />
+    <color name="Background" color="podloga" />
+    <color name="LabelForeground" color="white" />
+    <color name="ListboxBackground" color="podloga" />
+    <color name="ListboxForeground" color="white" />
+    <color name="ListboxSelectedBackground" color="un333333" />
+    <color name="ListboxSelectedForeground" color="white" />
+    <color name="ListboxMarkedBackground" color="un203658a4" />
+    <color name="ListboxMarkedForeground" color="unff0000" />
+    <color name="ListboxMarkedAndSelectedBackground" color="black" />
+    <color name="ListboxMarkedAndSelectedForeground" color="un800000" />
+    <color name="WindowTitleForeground" color="white" />
+    <color name="WindowTitleBackground" color="transpGrey" />
+    <borderset name="bs
